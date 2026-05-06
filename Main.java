@@ -1,3 +1,7 @@
+// Nama : Kadek Tomy Brayen 
+// NIM : 2515101116
+// Kelas : 2A ILKOM
+
 import java.util.Scanner;
 
 public class Main {
